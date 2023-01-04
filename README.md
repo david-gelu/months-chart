@@ -1,3 +1,8 @@
+# Steps
+
+## Remove unused code 
+Remove unused code which is created automatically when npx create-react-app it is used 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
