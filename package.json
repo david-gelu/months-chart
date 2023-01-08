@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "@apollo/client": "3.7.3",
+    "@visx/group": "^2.17.0",
+    "@visx/scale": "^2.18.0",
+    "@visx/shape": "^2.18.0",
     "graphql": "16.6.0",
     "graphql-tag": "2.12.6",
     "moment": "2.29.4",
