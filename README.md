@@ -1,7 +1,15 @@
 # Steps
 
 ## Remove unused code 
-Remove unused code which is created automatically when npx create-react-app it is used 
+Remove unused code which is created automatically when npx create-react-app it is used
+
+## Add Apollo and Graphql
+
+Never used before, i need to read and watch some examples
+
+## Use data from api
+
+Use data from api to display and add bar-chart
 
 # Getting Started with Create React App
 
