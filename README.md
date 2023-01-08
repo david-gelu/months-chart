@@ -9,7 +9,8 @@ Never used before, i need to read and watch some examples
 
 ## Use data from api
 
-Use data from api to display and add bar-chart
+Use data from api to display and add bar-chart.
+In query get only id and creaedAt since i am using only those.
 
 # Getting Started with Create React App
 
