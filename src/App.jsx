@@ -9,16 +9,7 @@ const MY_QUERY = gql`
   query {
     allPosts(count: 5000) {
       id
-      title
-      body
-      published
       createdAt
-      author {
-        id
-        firstName
-        lastName
-        avatar
-      }
     }
   }
 `
